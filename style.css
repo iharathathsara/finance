@@ -1,0 +1,75 @@
+.bg-green {
+    background: rgb(40, 167, 69);
+}
+
+.bg-green:hover {
+    background: rgb(25, 150, 50);
+}
+
+.bg-blue {
+    background: rgb(0, 123, 255);
+}
+
+.bg-blue:hover {
+    background: rgb(0, 105, 220);
+}
+
+.bg-yellow {
+    background: rgb(255, 193, 7);
+}
+
+.bg-yellow:hover {
+    background: rgb(220, 170, 0);
+}
+
+.bg-orange {
+    background: rgb(253, 126, 20);
+}
+
+.bg-orange:hover {
+    background: rgb(220, 100, 10);
+}
+
+.bg-cyan {
+    background: rgb(23, 162, 184);
+}
+
+.bg-cyan:hover {
+    background: rgb(20, 140, 160);
+}
+
+.bg-gray {
+    background: rgb(108, 117, 125);
+}
+
+.bg-gray:hover {
+    background: rgb(88, 97, 105);
+}
+
+.bg-darkblue {
+    background: rgb(0, 86, 179);
+}
+
+.bg-darkblue:hover {
+    background: rgb(0, 70, 140);
+}
+
+.bg-emeraldgreen {
+    background: rgb(0, 168, 107);
+}
+
+.bg-emeraldgreen:hover {
+    background: rgb(0, 140, 90);
+}
+
+.bg-purple {
+    background: rgb(111, 66, 193);
+}
+
+.bg-purple:hover {
+    background: rgb(90, 50, 170);
+}
+
+.home-cat-btn {
+    height: 100px;
+}
