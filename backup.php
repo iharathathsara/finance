@@ -4,8 +4,8 @@ if (isset($_POST['backup'])) {
     // Database configuration
     $dbHost = 'localhost';
     $dbUsername = 'root';
-    $dbPassword = 'IharaThathsara31@#';
-    $dbName = 'matara_investment_db';
+    $dbPassword = 'password';
+    $dbName = 'dbname';
 
     // Create a backup filename with the current date and time
     $backupFileName = $dbName . '_full_backup_' . date('Y-m-d_H-i-s') . '.sql';
