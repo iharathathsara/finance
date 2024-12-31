@@ -571,8 +571,8 @@ CREATE TABLE IF NOT EXISTS `user` (
 -- Dumping data for table matara_investment_db.user: ~1 rows (approximately)
 /*!40000 ALTER TABLE `user` DISABLE KEYS */;
 INSERT INTO `user` (`id`, `emp_no`, `full_name`, `name_with_initial`, `email`, `mobile`, `nic`, `password`, `address`, `user_type_id`, `user_status_id`, `created_at`, `updated_at`) VALUES
-	(1, 'SA 0001', 'ihara thathsara', 'W.G.Ihara Thathsara', 'iharathathsara31@gmail.com', '0763947527', '123456', '$2y$10$y35Z55bkgLpP7KQb/xDBie/o.lVw0F3EwPx/kBpLyRRGQvqWo.0Tu', '"Seth Sisila", Kaduruduwa, Wanchawala, Galle', 1, 1, '2024-08-13 15:34:21', '2024-08-31 12:29:18'),
-	(2, '1111', 'Wijesiri Gunawardhana Ihara Thathsara', 'wgIhara Thathsara', 'iharathathsara0@gmail.com', '0763947527', '12345678', '$2y$10$OtgidCjceU7zxmBQu66X9us8ZpdMa0Xao5U4sdBNsDWYL5E8xIFQu', '"Seth Sisila", Kaduruduwa, Wanchawala, Galle', 2, 1, '2024-10-08 17:24:55', '2024-10-08 17:24:55');
+	(1, 'SA 0001', 'ihara thathsara', 'W.G.Ihara Thathsara', 'iharathathsara31@gmail.com', '0763947527', '11111111', '$2y$10$ZN8FXADIukjhyGH1Ak9jteyDzLhX35y4EzSmpfUwSQwzr6BX63KjO', '"Seth Sisila", Kaduruduwa, Wanchawala, Galle', 1, 1, '2024-08-13 15:34:21', '2024-08-31 12:29:18'),
+	(2, '1111', 'Wijesiri Gunawardhana Ihara Thathsara', 'wgIhara Thathsara', 'iharathathsara0@gmail.com', '0763947527', '11111111', '$2y$10$ZN8FXADIukjhyGH1Ak9jteyDzLhX35y4EzSmpfUwSQwzr6BX63KjO', '"Seth Sisila", Kaduruduwa, Wanchawala, Galle', 2, 1, '2024-10-08 17:24:55', '2024-10-08 17:24:55');
 /*!40000 ALTER TABLE `user` ENABLE KEYS */;
 
 -- Dumping structure for table matara_investment_db.user_has_leaves
